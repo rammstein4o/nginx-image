@@ -1,5 +1,5 @@
 NS ?= docker.io/rammstein4o
-VERSION ?= 0.3.0
+VERSION ?= 0.4.0
 
 IMAGE_NAME ?= nginx-image
 CONTAINER_NAME ?= nginx

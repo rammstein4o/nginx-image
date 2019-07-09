@@ -1,6 +1,6 @@
-FROM rammstein4o/base-image:0.3.0
+FROM rammstein4o/base-image:0.4.0
 
-ARG VERSION=0.3.0
+ARG VERSION=0.4.0
 
 LABEL maintainer="rado.salov@gmail.com" \
     version="${VERSION}" \
